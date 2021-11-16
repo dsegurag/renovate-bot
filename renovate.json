@@ -48,6 +48,7 @@
     ]
   },
   "repositories": [
-    "dsegurag/renovate-bot"
+    "dsegurag/renovate-bot",
+    "dsegurag/aws-basic-network"
   ]
 }
