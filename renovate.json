@@ -15,7 +15,7 @@
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "onboardingConfig": {
     "extends": [
-      "github>dsegurag/renovate"
+      "github>dsegurag/renovate-bot"
     ]
   },
   "timezone": "Europe/Madrid",
